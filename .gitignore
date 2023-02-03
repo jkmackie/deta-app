@@ -2,9 +2,5 @@
 .DS_Store
 .deta/
 .vscode/
-<<<<<<< HEAD
-images/
-=======
 images/
 __pycache__/
->>>>>>> 88c0c2e (fastapi app)
